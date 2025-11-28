@@ -20,7 +20,7 @@ Before running the project, you need:
 
 1. **Download or Clone the Repository**  
    ```bash
-   git clone https://github.com/username/repo.git
+   [git clone https://github.com/username/repo.git](https://github.com/faiyazzrahman/opengl_animated_city_purandhaka.git)
 Or download the ZIP and extract it.
 
 Open in Code::Blocks
