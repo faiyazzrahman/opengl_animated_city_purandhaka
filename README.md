@@ -49,16 +49,6 @@ Build the project: Build → Build (or press F9).
 
 Run the project: Build → Run (or press Ctrl+F10).
 
-Project Structure
-rust
-Copy code
-ProjectRoot/
-│
-├─ src/            -> Source files (.c/.cpp)
-├─ include/        -> Header files (.h)
-├─ resources/      -> Textures, models, or other assets
-├─ .gitignore      -> Files to ignore in version control
-└─ project.cbp     -> Code::Blocks project file
 Notes
 Make sure freeglut.dll is in the same folder as the executable.
 
@@ -66,5 +56,4 @@ Avoid modifying library paths unless you know what you are doing.
 
 This project is for Windows; Linux or Mac users may need different setup steps.
 
-License
-This project is released under [Specify Your License, e.g., MIT License].
+
